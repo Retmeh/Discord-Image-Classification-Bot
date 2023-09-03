@@ -36,7 +36,7 @@ async def check(ctx):
             await attachment.save(f"img/{name}")
     else:
         await ctx.send(f'Фото НЕ получено. Попробуйте прикрепить фото и попробовать снова.')
-bot.run("MTA5NDU4ODg3ODYyODg1OTkxNQ.GRJmBr.EkNlE87nzUiTbUk278eABh-CGxIblnLBVHEjbA")
+bot.run("ВАШ ТОКЕН")
 
 
 
